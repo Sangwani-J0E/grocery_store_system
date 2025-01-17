@@ -68,11 +68,6 @@ Follow these steps to set up the project locally:
    http://localhost/grocery-store-system/
    ```
 
-# Screenshots
-
-(Add screenshots of your project here to showcase the UI and functionality.)
-
-
 # Acknowledgements
 
 This project would not have been possible without the guidance and resources provided by online PHP tutorials and courses. Special thanks to the creators of these tutorials for helping me build this practice project step by step.  
